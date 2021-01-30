@@ -1,4 +1,4 @@
-# backlog
+# 🗂 Backlog
 
 Backlog de contenidos para el [blog](https://joanleon.dev/), canal de [YouTube](https://www.youtube.com/c/JoanLeon) y directos en [Twitch](https://www.twitch.tv/nucliweb).
 
@@ -21,6 +21,11 @@ Puedes proponer algún tema que no esté en la lista, pero **siempre escribiré,
 Si quieres estar al día de nuevas sugerencias, si tienes cuenta de GitHub *(es gratuita)*, puedes activas las notificaciones.
 
 <img width="321" alt="All Activity" src="https://user-images.githubusercontent.com/1307927/106338370-ee244100-6293-11eb-8644-56db2ec493b1.png">
+
+
+## Otros backlogs
+
+- [Carlos Azaustre](https://github.com/carlosazaustre/backlog)
 
 <hr>
 
