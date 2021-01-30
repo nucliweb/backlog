@@ -12,7 +12,7 @@ Así que, quiero pasar a un formato digital y al mismo tiempo ofrecer la posibil
 
 ## ¿Cómo funciona?
 
-Echa un vistazo a las [issues](https://github.com/nucliweb/backlog/issues), allí encontrarás una lista de los contenidos que quiero compartir. Vota tus preferencias para conseguir priorizar los temas añadiendo un 👍🏼.
+Echa un vistazo a las [issues](https://github.com/nucliweb/backlog/issues), allí encontrarás una lista de los contenidos que quiero compartir. Vota tus preferencias para conseguir priorizar los temas añadiendo un 👍 como comentario, así se pueden visualizar desde la lista de issues.
 
 Puedes proponer algún tema que no esté en la lista, pero **siempre escribiré, grabaré o haré streams del contenido que me apetezca hacer, y de contenido del que yo crea que puedo aportar alguna cosa a la comunidad**.
 
